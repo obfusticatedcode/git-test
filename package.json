@@ -1,0 +1,25 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn Git and Node",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obfusticatedcode/git-test.git"
+  },
+  "author": "Chisomo Lungu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obfusticatedcode/git-test/issues"
+  },
+  "homepage": "https://github.com/obfusticatedcode/git-test#readme"
+}
